@@ -8,4 +8,13 @@ public class TC_001 {
     // So lets start
 
     // let's add some new features on this
+
+    // Initilasation of this testing will be:
+
+    // negative testing
+
+    // positive testing
+
+    // manuel and automation testing etc...
+
 }
