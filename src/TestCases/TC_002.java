@@ -7,4 +7,7 @@ public class TC_002 {
 
     // We will be doing smoke testing in this section
 
+    // The test be done by Automation
+
+
 }
