@@ -9,7 +9,7 @@ public class TC_001 {
 
     // let's add some new features on this
 
-    // Initilasation of this testing will be:
+    // Initialization of this testing will be:
 
     // negative testing
 
@@ -18,6 +18,8 @@ public class TC_001 {
     // manuel and automation testing
 
     // testing Testing and Testing
+
+    // Final stage preparations
 
 
 }
